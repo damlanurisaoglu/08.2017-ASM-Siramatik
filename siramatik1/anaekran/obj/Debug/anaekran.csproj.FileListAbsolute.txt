@@ -1,0 +1,12 @@
+C:\Users\Damla\documents\visual studio 2017\Projects\siramatik1\anaekran\bin\Debug\anaekran.exe.config
+C:\Users\Damla\documents\visual studio 2017\Projects\siramatik1\anaekran\bin\Debug\anaekran.exe
+C:\Users\Damla\documents\visual studio 2017\Projects\siramatik1\anaekran\bin\Debug\anaekran.pdb
+C:\Users\Damla\documents\visual studio 2017\Projects\siramatik1\anaekran\obj\Debug\anaekran.FrmMain.resources
+C:\Users\Damla\documents\visual studio 2017\Projects\siramatik1\anaekran\obj\Debug\anaekran.login.resources
+C:\Users\Damla\documents\visual studio 2017\Projects\siramatik1\anaekran\obj\Debug\anaekran.Properties.Resources.resources
+C:\Users\Damla\documents\visual studio 2017\Projects\siramatik1\anaekran\obj\Debug\anaekran.csproj.GenerateResource.Cache
+C:\Users\Damla\documents\visual studio 2017\Projects\siramatik1\anaekran\obj\Debug\anaekran.exe
+C:\Users\Damla\documents\visual studio 2017\Projects\siramatik1\anaekran\obj\Debug\anaekran.pdb
+C:\Users\Damla\documents\visual studio 2017\Projects\siramatik1\anaekran\obj\Debug\anaekran.csprojResolveAssemblyReference.cache
+C:\Users\Damla\documents\visual studio 2017\Projects\siramatik1\anaekran\obj\Debug\anaekran.Secim.resources
+C:\Users\Damla\documents\visual studio 2017\Projects\siramatik1\anaekran\obj\Debug\anaekran.TcGiris.resources

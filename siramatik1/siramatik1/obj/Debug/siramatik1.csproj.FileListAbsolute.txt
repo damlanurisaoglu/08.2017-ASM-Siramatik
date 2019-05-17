@@ -1,0 +1,9 @@
+c:\users\damla\documents\visual studio 2017\Projects\siramatik1\siramatik1\bin\Debug\siramatik1.exe.config
+c:\users\damla\documents\visual studio 2017\Projects\siramatik1\siramatik1\bin\Debug\siramatik1.exe
+c:\users\damla\documents\visual studio 2017\Projects\siramatik1\siramatik1\bin\Debug\siramatik1.pdb
+c:\users\damla\documents\visual studio 2017\Projects\siramatik1\siramatik1\obj\Debug\siramatik1.csprojResolveAssemblyReference.cache
+c:\users\damla\documents\visual studio 2017\Projects\siramatik1\siramatik1\obj\Debug\siramatik1.Form1.resources
+c:\users\damla\documents\visual studio 2017\Projects\siramatik1\siramatik1\obj\Debug\siramatik1.Properties.Resources.resources
+c:\users\damla\documents\visual studio 2017\Projects\siramatik1\siramatik1\obj\Debug\siramatik1.csproj.GenerateResource.Cache
+c:\users\damla\documents\visual studio 2017\Projects\siramatik1\siramatik1\obj\Debug\siramatik1.exe
+c:\users\damla\documents\visual studio 2017\Projects\siramatik1\siramatik1\obj\Debug\siramatik1.pdb
